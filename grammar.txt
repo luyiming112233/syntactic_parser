@@ -1,4 +1,4 @@
-S->v=E|E?
+S->i=E|E
 E->E+T|E-T|T
 T->T*F|T/F|F
-F->(E)|v|c
+F->(E)|i

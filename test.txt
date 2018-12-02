@@ -1,26 +1,4 @@
-
-//@
-
-
-class STU{//Ñ§ÉúÀà
-    private int old;
-    public int s@tuid;
-    public double finalgrade;
-    protected double grade1;
-    protected double grade2;
-
-    void setGrade(double g1,double g2){
-        grade1 = g1;
-        grade2 = g2;
-    }
-
-    bool isPass(){
-        finalgrade = (grade1 + grade2)/2;
-        if(finalgrede >= 60.5)
-            return true;
-        else
-            return false;  
-    }
-}
- 
- 
+z = 6#
+a = 5#
+cc=6+aa/5#
+tt=(cc+1)/2-6#;
